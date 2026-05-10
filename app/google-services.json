@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415457965112",
+    "project_id": "banksampah-66542",
+    "storage_bucket": "banksampah-66542.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415457965112:android:eb3721e4ab09e733a322cd",
+        "android_client_info": {
+          "package_name": "com.example.banksampah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTJ8oMi6ptmHhJJ9rNq5pIsCK2YyHDXTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
